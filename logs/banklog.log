@@ -1,0 +1,444 @@
+2026-09-08 10:15:39,156 - INFO - Click the request link to open
+2026-09-08 10:36:31,995 - INFO - Click the request link to open
+2026-09-08 10:36:50,093 - INFO - Click the request link to open
+2026-09-08 11:05:07,646 - INFO - Click the request link to open
+2026-09-08 11:05:23,280 - INFO - Click the request link to open
+2026-09-08 14:53:28,838 - INFO - Click the request link to open
+2026-09-08 14:53:32,735 - INFO - Enter the loan amount u wanna apply for
+2026-09-08 14:53:32,812 - INFO - Enter down payment amount
+2026-09-08 14:53:32,884 - INFO - select existin account number
+2026-09-08 14:53:41,077 - INFO - Click the request link to open
+2026-09-08 14:53:43,535 - INFO - Enter the loan amount u wanna apply for
+2026-09-08 14:53:43,613 - INFO - Enter down payment amount
+2026-09-08 14:53:43,686 - INFO - select existin account number
+2026-09-08 14:54:14,833 - INFO - Click the request link to open
+2026-09-08 14:54:17,253 - INFO - Enter the loan amount u wanna apply for
+2026-09-08 14:54:17,334 - INFO - Enter down payment amount
+2026-09-08 14:54:17,419 - INFO - select existin account number
+2026-09-08 14:54:39,614 - INFO - Click the request link to open
+2026-09-08 14:54:43,084 - INFO - Enter the loan amount u wanna apply for
+2026-09-08 14:54:43,160 - INFO - Enter down payment amount
+2026-09-08 14:54:43,239 - INFO - select existin account number
+2026-09-08 14:54:43,304 - INFO - Press Loan button
+2026-09-08 14:54:43,397 - INFO - Success!
+2026-09-08 14:54:52,644 - INFO - Click the request link to open
+2026-09-08 14:54:55,187 - INFO - Enter the loan amount u wanna apply for
+2026-09-08 14:54:55,260 - INFO - Enter down payment amount
+2026-09-08 14:54:55,342 - INFO - select existin account number
+2026-09-08 14:54:55,459 - INFO - Press Loan button
+2026-09-08 14:54:55,551 - WARNING - insufficient_funds
+2026-09-10 11:57:27,956 - INFO - entered all the details required
+2026-09-10 11:57:27,956 - INFO - entered all the details required
+2026-09-10 11:57:27,956 - INFO - entered all the details required
+2026-09-10 12:02:45,155 - INFO - entered all the details required
+2026-09-10 12:02:45,155 - INFO - entered all the details required
+2026-09-10 12:02:45,155 - INFO - entered all the details required
+2026-09-10 12:04:29,830 - INFO - entered all the details required
+2026-09-10 12:04:29,830 - INFO - entered all the details required
+2026-09-10 12:04:29,830 - INFO - entered all the details required
+2026-09-10 12:04:30,511 - INFO - Enter Payee Name
+2026-09-10 12:04:30,511 - INFO - Enter Payee Name
+2026-09-10 12:04:30,511 - INFO - Enter Payee Name
+2026-09-10 12:04:30,623 - INFO - Enter Payee Address
+2026-09-10 12:04:30,623 - INFO - Enter Payee Address
+2026-09-10 12:04:30,623 - INFO - Enter Payee Address
+2026-09-10 12:04:30,742 - INFO - Enter Payee City
+2026-09-10 12:04:30,742 - INFO - Enter Payee City
+2026-09-10 12:04:30,742 - INFO - Enter Payee City
+2026-09-10 12:04:30,853 - INFO - Enter Payee State
+2026-09-10 12:04:30,853 - INFO - Enter Payee State
+2026-09-10 12:04:30,853 - INFO - Enter Payee State
+2026-09-10 12:04:30,961 - INFO - Enter Payee Zipcode
+2026-09-10 12:04:30,961 - INFO - Enter Payee Zipcode
+2026-09-10 12:04:30,961 - INFO - Enter Payee Zipcode
+2026-09-10 12:04:31,064 - INFO - Enter Payee Phone
+2026-09-10 12:04:31,064 - INFO - Enter Payee Phone
+2026-09-10 12:04:31,064 - INFO - Enter Payee Phone
+2026-09-16 20:00:37,804 - INFO - enter first name
+2026-09-16 20:00:37,804 - INFO - enter first name
+2026-09-16 20:00:37,804 - INFO - enter first name
+2026-09-16 20:00:37,804 - INFO - enter first name
+2026-09-16 20:05:05,665 - INFO - enter first name
+2026-09-16 20:05:05,665 - INFO - enter first name
+2026-09-16 20:05:05,665 - INFO - enter first name
+2026-09-16 20:05:05,665 - INFO - enter first name
+2026-09-16 20:05:05,755 - INFO - enter last name
+2026-09-16 20:05:05,755 - INFO - enter last name
+2026-09-16 20:05:05,755 - INFO - enter last name
+2026-09-16 20:05:05,755 - INFO - enter last name
+2026-09-16 20:05:05,833 - INFO - enter address
+2026-09-16 20:05:05,833 - INFO - enter address
+2026-09-16 20:05:05,833 - INFO - enter address
+2026-09-16 20:05:05,833 - INFO - enter address
+2026-09-16 20:05:05,929 - INFO - enter city
+2026-09-16 20:05:05,929 - INFO - enter city
+2026-09-16 20:05:05,929 - INFO - enter city
+2026-09-16 20:05:05,929 - INFO - enter city
+2026-09-16 20:05:06,018 - INFO - enter state
+2026-09-16 20:05:06,018 - INFO - enter state
+2026-09-16 20:05:06,018 - INFO - enter state
+2026-09-16 20:05:06,018 - INFO - enter state
+2026-09-16 20:05:06,102 - INFO - enter zipcode
+2026-09-16 20:05:06,102 - INFO - enter zipcode
+2026-09-16 20:05:06,102 - INFO - enter zipcode
+2026-09-16 20:05:06,102 - INFO - enter zipcode
+2026-09-16 20:05:06,180 - INFO - enter phone
+2026-09-16 20:05:06,180 - INFO - enter phone
+2026-09-16 20:05:06,180 - INFO - enter phone
+2026-09-16 20:05:06,180 - INFO - enter phone
+2026-09-16 20:05:06,257 - INFO - profile update complete
+2026-09-16 20:05:06,257 - INFO - profile update complete
+2026-09-16 20:05:06,257 - INFO - profile update complete
+2026-09-16 20:05:06,257 - INFO - profile update complete
+2026-09-16 20:05:06,257 - INFO - hit the profile button
+2026-09-16 20:05:06,257 - INFO - hit the profile button
+2026-09-16 20:05:06,257 - INFO - hit the profile button
+2026-09-16 20:05:06,257 - INFO - hit the profile button
+2026-09-16 20:06:04,890 - INFO - enter first name
+2026-09-16 20:06:04,890 - INFO - enter first name
+2026-09-16 20:06:04,890 - INFO - enter first name
+2026-09-16 20:06:04,890 - INFO - enter first name
+2026-09-16 20:06:04,972 - INFO - enter last name
+2026-09-16 20:06:04,972 - INFO - enter last name
+2026-09-16 20:06:04,972 - INFO - enter last name
+2026-09-16 20:06:04,972 - INFO - enter last name
+2026-09-16 20:06:05,047 - INFO - enter address
+2026-09-16 20:06:05,047 - INFO - enter address
+2026-09-16 20:06:05,047 - INFO - enter address
+2026-09-16 20:06:05,047 - INFO - enter address
+2026-09-16 20:06:05,136 - INFO - enter city
+2026-09-16 20:06:05,136 - INFO - enter city
+2026-09-16 20:06:05,136 - INFO - enter city
+2026-09-16 20:06:05,136 - INFO - enter city
+2026-09-16 20:06:05,221 - INFO - enter state
+2026-09-16 20:06:05,221 - INFO - enter state
+2026-09-16 20:06:05,221 - INFO - enter state
+2026-09-16 20:06:05,221 - INFO - enter state
+2026-09-16 20:06:05,301 - INFO - enter zipcode
+2026-09-16 20:06:05,301 - INFO - enter zipcode
+2026-09-16 20:06:05,301 - INFO - enter zipcode
+2026-09-16 20:06:05,301 - INFO - enter zipcode
+2026-09-16 20:06:05,370 - INFO - enter phone
+2026-09-16 20:06:05,370 - INFO - enter phone
+2026-09-16 20:06:05,370 - INFO - enter phone
+2026-09-16 20:06:05,370 - INFO - enter phone
+2026-09-16 20:06:08,444 - INFO - profile update complete
+2026-09-16 20:06:08,444 - INFO - profile update complete
+2026-09-16 20:06:08,444 - INFO - profile update complete
+2026-09-16 20:06:08,444 - INFO - profile update complete
+2026-09-16 20:06:11,445 - INFO - hit the profile button
+2026-09-16 20:06:11,445 - INFO - hit the profile button
+2026-09-16 20:06:11,445 - INFO - hit the profile button
+2026-09-16 20:06:11,445 - INFO - hit the profile button
+2026-09-17 07:35:38,936 - INFO - enter first name
+2026-09-17 07:35:38,936 - INFO - enter first name
+2026-09-17 07:35:38,936 - INFO - enter first name
+2026-09-17 07:35:38,936 - INFO - enter first name
+2026-09-17 07:35:39,008 - INFO - enter last name
+2026-09-17 07:35:39,008 - INFO - enter last name
+2026-09-17 07:35:39,008 - INFO - enter last name
+2026-09-17 07:35:39,008 - INFO - enter last name
+2026-09-17 07:35:39,077 - INFO - enter address
+2026-09-17 07:35:39,077 - INFO - enter address
+2026-09-17 07:35:39,077 - INFO - enter address
+2026-09-17 07:35:39,077 - INFO - enter address
+2026-09-17 07:35:39,156 - INFO - enter city
+2026-09-17 07:35:39,156 - INFO - enter city
+2026-09-17 07:35:39,156 - INFO - enter city
+2026-09-17 07:35:39,156 - INFO - enter city
+2026-09-17 07:35:39,228 - INFO - enter state
+2026-09-17 07:35:39,228 - INFO - enter state
+2026-09-17 07:35:39,228 - INFO - enter state
+2026-09-17 07:35:39,228 - INFO - enter state
+2026-09-17 07:35:39,309 - INFO - enter zipcode
+2026-09-17 07:35:39,309 - INFO - enter zipcode
+2026-09-17 07:35:39,309 - INFO - enter zipcode
+2026-09-17 07:35:39,309 - INFO - enter zipcode
+2026-09-17 07:35:39,377 - INFO - enter phone
+2026-09-17 07:35:39,377 - INFO - enter phone
+2026-09-17 07:35:39,377 - INFO - enter phone
+2026-09-17 07:35:39,377 - INFO - enter phone
+2026-09-17 07:35:42,451 - INFO - profile update complete
+2026-09-17 07:35:42,451 - INFO - profile update complete
+2026-09-17 07:35:42,451 - INFO - profile update complete
+2026-09-17 07:35:42,451 - INFO - profile update complete
+2026-09-17 07:35:45,451 - INFO - hit the profile button
+2026-09-17 07:35:45,451 - INFO - hit the profile button
+2026-09-17 07:35:45,451 - INFO - hit the profile button
+2026-09-17 07:35:45,451 - INFO - hit the profile button
+2026-09-17 07:51:37,727 - INFO - enter first name
+2026-09-17 07:51:37,727 - INFO - enter first name
+2026-09-17 07:51:37,727 - INFO - enter first name
+2026-09-17 07:51:37,727 - INFO - enter first name
+2026-09-17 07:51:37,799 - INFO - enter last name
+2026-09-17 07:51:37,799 - INFO - enter last name
+2026-09-17 07:51:37,799 - INFO - enter last name
+2026-09-17 07:51:37,799 - INFO - enter last name
+2026-09-17 07:51:37,865 - INFO - enter address
+2026-09-17 07:51:37,865 - INFO - enter address
+2026-09-17 07:51:37,865 - INFO - enter address
+2026-09-17 07:51:37,865 - INFO - enter address
+2026-09-17 07:51:37,944 - INFO - enter city
+2026-09-17 07:51:37,944 - INFO - enter city
+2026-09-17 07:51:37,944 - INFO - enter city
+2026-09-17 07:51:37,944 - INFO - enter city
+2026-09-17 07:51:38,015 - INFO - enter state
+2026-09-17 07:51:38,015 - INFO - enter state
+2026-09-17 07:51:38,015 - INFO - enter state
+2026-09-17 07:51:38,015 - INFO - enter state
+2026-09-17 07:51:38,088 - INFO - enter zipcode
+2026-09-17 07:51:38,088 - INFO - enter zipcode
+2026-09-17 07:51:38,088 - INFO - enter zipcode
+2026-09-17 07:51:38,088 - INFO - enter zipcode
+2026-09-17 07:51:38,155 - INFO - enter phone
+2026-09-17 07:51:38,155 - INFO - enter phone
+2026-09-17 07:51:38,155 - INFO - enter phone
+2026-09-17 07:51:38,155 - INFO - enter phone
+2026-09-17 07:51:41,227 - INFO - profile update complete
+2026-09-17 07:51:41,227 - INFO - profile update complete
+2026-09-17 07:51:41,227 - INFO - profile update complete
+2026-09-17 07:51:41,227 - INFO - profile update complete
+2026-09-17 07:51:44,228 - INFO - hit the profile button
+2026-09-17 07:51:44,228 - INFO - hit the profile button
+2026-09-17 07:51:44,228 - INFO - hit the profile button
+2026-09-17 07:51:44,228 - INFO - hit the profile button
+2026-09-17 07:55:23,288 - INFO - enter first name
+2026-09-17 07:55:23,288 - INFO - enter first name
+2026-09-17 07:55:23,288 - INFO - enter first name
+2026-09-17 07:55:23,288 - INFO - enter first name
+2026-09-17 07:55:23,363 - INFO - enter last name
+2026-09-17 07:55:23,363 - INFO - enter last name
+2026-09-17 07:55:23,363 - INFO - enter last name
+2026-09-17 07:55:23,363 - INFO - enter last name
+2026-09-17 07:55:23,427 - INFO - enter address
+2026-09-17 07:55:23,427 - INFO - enter address
+2026-09-17 07:55:23,427 - INFO - enter address
+2026-09-17 07:55:23,427 - INFO - enter address
+2026-09-17 07:55:23,513 - INFO - enter city
+2026-09-17 07:55:23,513 - INFO - enter city
+2026-09-17 07:55:23,513 - INFO - enter city
+2026-09-17 07:55:23,513 - INFO - enter city
+2026-09-17 07:55:23,586 - INFO - enter state
+2026-09-17 07:55:23,586 - INFO - enter state
+2026-09-17 07:55:23,586 - INFO - enter state
+2026-09-17 07:55:23,586 - INFO - enter state
+2026-09-17 07:55:23,661 - INFO - enter zipcode
+2026-09-17 07:55:23,661 - INFO - enter zipcode
+2026-09-17 07:55:23,661 - INFO - enter zipcode
+2026-09-17 07:55:23,661 - INFO - enter zipcode
+2026-09-17 07:55:23,738 - INFO - enter phone
+2026-09-17 07:55:23,738 - INFO - enter phone
+2026-09-17 07:55:23,738 - INFO - enter phone
+2026-09-17 07:55:23,738 - INFO - enter phone
+2026-09-17 07:55:26,815 - INFO - profile update complete
+2026-09-17 07:55:26,815 - INFO - profile update complete
+2026-09-17 07:55:26,815 - INFO - profile update complete
+2026-09-17 07:55:26,815 - INFO - profile update complete
+2026-09-17 07:55:29,816 - INFO - hit the profile button
+2026-09-17 07:55:29,816 - INFO - hit the profile button
+2026-09-17 07:55:29,816 - INFO - hit the profile button
+2026-09-17 07:55:29,816 - INFO - hit the profile button
+2026-09-17 07:59:13,623 - INFO - enter first name
+2026-09-17 07:59:13,623 - INFO - enter first name
+2026-09-17 07:59:13,623 - INFO - enter first name
+2026-09-17 07:59:13,623 - INFO - enter first name
+2026-09-17 07:59:13,702 - INFO - enter last name
+2026-09-17 07:59:13,702 - INFO - enter last name
+2026-09-17 07:59:13,702 - INFO - enter last name
+2026-09-17 07:59:13,702 - INFO - enter last name
+2026-09-17 07:59:13,767 - INFO - enter address
+2026-09-17 07:59:13,767 - INFO - enter address
+2026-09-17 07:59:13,767 - INFO - enter address
+2026-09-17 07:59:13,767 - INFO - enter address
+2026-09-17 07:59:13,848 - INFO - enter city
+2026-09-17 07:59:13,848 - INFO - enter city
+2026-09-17 07:59:13,848 - INFO - enter city
+2026-09-17 07:59:13,848 - INFO - enter city
+2026-09-17 07:59:13,917 - INFO - enter state
+2026-09-17 07:59:13,917 - INFO - enter state
+2026-09-17 07:59:13,917 - INFO - enter state
+2026-09-17 07:59:13,917 - INFO - enter state
+2026-09-17 07:59:13,992 - INFO - enter zipcode
+2026-09-17 07:59:13,992 - INFO - enter zipcode
+2026-09-17 07:59:13,992 - INFO - enter zipcode
+2026-09-17 07:59:13,992 - INFO - enter zipcode
+2026-09-17 07:59:14,060 - INFO - enter phone
+2026-09-17 07:59:14,060 - INFO - enter phone
+2026-09-17 07:59:14,060 - INFO - enter phone
+2026-09-17 07:59:14,060 - INFO - enter phone
+2026-09-17 07:59:17,151 - INFO - profile update complete
+2026-09-17 07:59:17,151 - INFO - profile update complete
+2026-09-17 07:59:17,151 - INFO - profile update complete
+2026-09-17 07:59:17,151 - INFO - profile update complete
+2026-09-17 07:59:20,152 - INFO - hit the profile button
+2026-09-17 07:59:20,152 - INFO - hit the profile button
+2026-09-17 07:59:20,152 - INFO - hit the profile button
+2026-09-17 07:59:20,152 - INFO - hit the profile button
+2026-09-17 12:50:56,634 - INFO - Starting Parabank end-to-end test
+2026-09-17 12:50:56,634 - INFO - Starting Parabank end-to-end test
+2026-09-17 12:50:56,634 - INFO - Starting Parabank end-to-end test
+2026-09-17 12:50:56,634 - INFO - Starting Parabank end-to-end test
+2026-09-17 12:50:57,833 - INFO - Login successful
+2026-09-17 12:50:57,833 - INFO - Login successful
+2026-09-17 12:50:57,833 - INFO - Login successful
+2026-09-17 12:50:57,833 - INFO - Login successful
+2026-09-17 12:51:00,476 - INFO - New account creation completed
+2026-09-17 12:51:00,476 - INFO - New account creation completed
+2026-09-17 12:51:00,476 - INFO - New account creation completed
+2026-09-17 12:51:00,476 - INFO - New account creation completed
+2026-09-17 12:51:00,477 - INFO - Click the request link to open
+2026-09-17 12:51:00,477 - INFO - Click the request link to open
+2026-09-17 12:51:00,477 - INFO - Click the request link to open
+2026-09-17 12:51:00,477 - INFO - Click the request link to open
+2026-09-17 12:51:03,109 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 12:51:03,109 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 12:51:03,109 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 12:51:03,109 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 12:51:03,195 - INFO - Enter down payment amount
+2026-09-17 12:51:03,195 - INFO - Enter down payment amount
+2026-09-17 12:51:03,195 - INFO - Enter down payment amount
+2026-09-17 12:51:03,195 - INFO - Enter down payment amount
+2026-09-17 12:51:03,271 - INFO - select existin account number
+2026-09-17 12:51:03,271 - INFO - select existin account number
+2026-09-17 12:51:03,271 - INFO - select existin account number
+2026-09-17 12:51:03,271 - INFO - select existin account number
+2026-09-17 12:51:03,386 - INFO - Press Loan button
+2026-09-17 12:51:03,386 - INFO - Press Loan button
+2026-09-17 12:51:03,386 - INFO - Press Loan button
+2026-09-17 12:51:03,386 - INFO - Press Loan button
+2026-09-17 12:51:03,478 - INFO - Success!
+2026-09-17 12:51:03,478 - INFO - Success!
+2026-09-17 12:51:03,478 - INFO - Success!
+2026-09-17 12:51:03,478 - INFO - Success!
+2026-09-17 12:51:04,036 - INFO - Loan successfully approved
+2026-09-17 12:51:04,036 - INFO - Loan successfully approved
+2026-09-17 12:51:04,036 - INFO - Loan successfully approved
+2026-09-17 12:51:04,036 - INFO - Loan successfully approved
+2026-09-17 12:51:04,909 - INFO - Enter Payee Name
+2026-09-17 12:51:04,909 - INFO - Enter Payee Name
+2026-09-17 12:51:04,909 - INFO - Enter Payee Name
+2026-09-17 12:51:04,909 - INFO - Enter Payee Name
+2026-09-17 12:51:04,994 - INFO - Enter Payee Address
+2026-09-17 12:51:04,994 - INFO - Enter Payee Address
+2026-09-17 12:51:04,994 - INFO - Enter Payee Address
+2026-09-17 12:51:04,994 - INFO - Enter Payee Address
+2026-09-17 12:51:05,081 - INFO - Enter Payee City
+2026-09-17 12:51:05,081 - INFO - Enter Payee City
+2026-09-17 12:51:05,081 - INFO - Enter Payee City
+2026-09-17 12:51:05,081 - INFO - Enter Payee City
+2026-09-17 12:51:05,168 - INFO - Enter Payee State
+2026-09-17 12:51:05,168 - INFO - Enter Payee State
+2026-09-17 12:51:05,168 - INFO - Enter Payee State
+2026-09-17 12:51:05,168 - INFO - Enter Payee State
+2026-09-17 12:51:05,250 - INFO - Enter Payee Zipcode
+2026-09-17 12:51:05,250 - INFO - Enter Payee Zipcode
+2026-09-17 12:51:05,250 - INFO - Enter Payee Zipcode
+2026-09-17 12:51:05,250 - INFO - Enter Payee Zipcode
+2026-09-17 12:51:05,327 - INFO - Enter Payee Phone
+2026-09-17 12:51:05,327 - INFO - Enter Payee Phone
+2026-09-17 12:51:05,327 - INFO - Enter Payee Phone
+2026-09-17 12:51:05,327 - INFO - Enter Payee Phone
+2026-09-17 13:54:04,264 - INFO - Starting Parabank end-to-end test
+2026-09-17 13:54:04,264 - INFO - Starting Parabank end-to-end test
+2026-09-17 13:54:04,264 - INFO - Starting Parabank end-to-end test
+2026-09-17 13:54:04,264 - INFO - Starting Parabank end-to-end test
+2026-09-17 13:54:05,282 - INFO - Login successful
+2026-09-17 13:54:05,282 - INFO - Login successful
+2026-09-17 13:54:05,282 - INFO - Login successful
+2026-09-17 13:54:05,282 - INFO - Login successful
+2026-09-17 13:54:07,908 - INFO - New account creation completed
+2026-09-17 13:54:07,908 - INFO - New account creation completed
+2026-09-17 13:54:07,908 - INFO - New account creation completed
+2026-09-17 13:54:07,908 - INFO - New account creation completed
+2026-09-17 13:54:07,909 - INFO - Click the request link to open
+2026-09-17 13:54:07,909 - INFO - Click the request link to open
+2026-09-17 13:54:07,909 - INFO - Click the request link to open
+2026-09-17 13:54:07,909 - INFO - Click the request link to open
+2026-09-17 13:54:10,623 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 13:54:10,623 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 13:54:10,623 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 13:54:10,623 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 13:54:10,708 - INFO - Enter down payment amount
+2026-09-17 13:54:10,708 - INFO - Enter down payment amount
+2026-09-17 13:54:10,708 - INFO - Enter down payment amount
+2026-09-17 13:54:10,708 - INFO - Enter down payment amount
+2026-09-17 13:54:10,777 - INFO - select existin account number
+2026-09-17 13:54:10,777 - INFO - select existin account number
+2026-09-17 13:54:10,777 - INFO - select existin account number
+2026-09-17 13:54:10,777 - INFO - select existin account number
+2026-09-17 13:54:10,879 - INFO - Press Loan button
+2026-09-17 13:54:10,879 - INFO - Press Loan button
+2026-09-17 13:54:10,879 - INFO - Press Loan button
+2026-09-17 13:54:10,879 - INFO - Press Loan button
+2026-09-17 13:54:10,975 - INFO - Success!
+2026-09-17 13:54:10,975 - INFO - Success!
+2026-09-17 13:54:10,975 - INFO - Success!
+2026-09-17 13:54:10,975 - INFO - Success!
+2026-09-17 13:54:11,539 - INFO - Loan successfully approved
+2026-09-17 13:54:11,539 - INFO - Loan successfully approved
+2026-09-17 13:54:11,539 - INFO - Loan successfully approved
+2026-09-17 13:54:11,539 - INFO - Loan successfully approved
+2026-09-17 13:54:12,209 - INFO - Enter Payee Name
+2026-09-17 13:54:12,209 - INFO - Enter Payee Name
+2026-09-17 13:54:12,209 - INFO - Enter Payee Name
+2026-09-17 13:54:12,209 - INFO - Enter Payee Name
+2026-09-17 13:54:12,297 - INFO - Enter Payee Address
+2026-09-17 13:54:12,297 - INFO - Enter Payee Address
+2026-09-17 13:54:12,297 - INFO - Enter Payee Address
+2026-09-17 13:54:12,297 - INFO - Enter Payee Address
+2026-09-17 13:54:12,396 - INFO - Enter Payee City
+2026-09-17 13:54:12,396 - INFO - Enter Payee City
+2026-09-17 13:54:12,396 - INFO - Enter Payee City
+2026-09-17 13:54:12,396 - INFO - Enter Payee City
+2026-09-17 13:54:12,485 - INFO - Enter Payee State
+2026-09-17 13:54:12,485 - INFO - Enter Payee State
+2026-09-17 13:54:12,485 - INFO - Enter Payee State
+2026-09-17 13:54:12,485 - INFO - Enter Payee State
+2026-09-17 13:54:12,564 - INFO - Enter Payee Zipcode
+2026-09-17 13:54:12,564 - INFO - Enter Payee Zipcode
+2026-09-17 13:54:12,564 - INFO - Enter Payee Zipcode
+2026-09-17 13:54:12,564 - INFO - Enter Payee Zipcode
+2026-09-17 13:54:12,642 - INFO - Enter Payee Phone
+2026-09-17 13:54:12,642 - INFO - Enter Payee Phone
+2026-09-17 13:54:12,642 - INFO - Enter Payee Phone
+2026-09-17 13:54:12,642 - INFO - Enter Payee Phone
+2026-09-17 13:55:43,106 - INFO - Starting Parabank end-to-end test
+2026-09-17 13:55:43,106 - INFO - Starting Parabank end-to-end test
+2026-09-17 13:55:43,106 - INFO - Starting Parabank end-to-end test
+2026-09-17 13:55:43,106 - INFO - Starting Parabank end-to-end test
+2026-09-17 13:55:44,101 - INFO - Login successful
+2026-09-17 13:55:44,101 - INFO - Login successful
+2026-09-17 13:55:44,101 - INFO - Login successful
+2026-09-17 13:55:44,101 - INFO - Login successful
+2026-09-17 13:55:46,543 - INFO - New account creation completed
+2026-09-17 13:55:46,543 - INFO - New account creation completed
+2026-09-17 13:55:46,543 - INFO - New account creation completed
+2026-09-17 13:55:46,543 - INFO - New account creation completed
+2026-09-17 13:55:46,543 - INFO - Click the request link to open
+2026-09-17 13:55:46,543 - INFO - Click the request link to open
+2026-09-17 13:55:46,543 - INFO - Click the request link to open
+2026-09-17 13:55:46,543 - INFO - Click the request link to open
+2026-09-17 13:55:48,990 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 13:55:48,990 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 13:55:48,990 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 13:55:48,990 - INFO - Enter the loan amount u wanna apply for
+2026-09-17 13:55:49,069 - INFO - Enter down payment amount
+2026-09-17 13:55:49,069 - INFO - Enter down payment amount
+2026-09-17 13:55:49,069 - INFO - Enter down payment amount
+2026-09-17 13:55:49,069 - INFO - Enter down payment amount
+2026-09-17 13:55:49,141 - INFO - select existin account number
+2026-09-17 13:55:49,141 - INFO - select existin account number
+2026-09-17 13:55:49,141 - INFO - select existin account number
+2026-09-17 13:55:49,141 - INFO - select existin account number
+2026-09-17 13:55:49,241 - INFO - Press Loan button
+2026-09-17 13:55:49,241 - INFO - Press Loan button
+2026-09-17 13:55:49,241 - INFO - Press Loan button
+2026-09-17 13:55:49,241 - INFO - Press Loan button
+2026-09-17 13:55:49,339 - INFO - Success!
+2026-09-17 13:55:49,339 - INFO - Success!
+2026-09-17 13:55:49,339 - INFO - Success!
+2026-09-17 13:55:49,339 - INFO - Success!
+2026-09-17 13:55:49,888 - INFO - Loan successfully approved
+2026-09-17 13:55:49,888 - INFO - Loan successfully approved
+2026-09-17 13:55:49,888 - INFO - Loan successfully approved
+2026-09-17 13:55:49,888 - INFO - Loan successfully approved
